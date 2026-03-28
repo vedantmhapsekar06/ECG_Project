@@ -1,0 +1,2 @@
+model,accuracy,f1_macro,f1_weighted,roc_auc,cv_mean,cv_std
+SVM,84.0,0.8349,0.8349,0.9744,83.36,1.85

@@ -1,0 +1,2 @@
+model,accuracy,f1_macro,f1_weighted,roc_auc,cv_mean,cv_std
+Random Forest,81.2,0.8005,0.8005,0.9617,81.68,1.59

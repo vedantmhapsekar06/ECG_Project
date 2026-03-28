@@ -1,0 +1,2 @@
+Best Model,Accuracy (%),F1 Macro,F1 Weighted,ROC-AUC
+SVM,84.0,0.8349,0.8349,0.9744
