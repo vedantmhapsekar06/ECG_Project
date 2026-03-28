@@ -216,7 +216,6 @@ Loads the best model → generates ROC curves, learning curves, confusion matrix
 ## 👨‍💻 Author
 
 **Vedant Mhapsekar**
-Electronics & Telecommunication Engineering
 Internship under: Ameya K. Naik & Nitin S. Nagori
 
 ---
