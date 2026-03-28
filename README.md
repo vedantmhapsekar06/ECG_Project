@@ -1,9 +1,9 @@
 # ECG_Project
 # 🫀 ECG Signal Classification using Machine Learning
 
-> **Internship Project** — Electronics & Telecommunication Engineering
+> **Internship Project** 
 > **Mentor:** Ameya K. Naik and Nitin S. Nagori
-> **Goal:** Develop an ML model to classify ECG signals into 5 cardiac conditions, deployable on a low-power portable device (Arduino-based)
+> **Goal:** Analysis of ECG signals using Machine Learning Algorithms
 
 ---
 
